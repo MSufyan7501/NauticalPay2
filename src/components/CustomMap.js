@@ -19,8 +19,8 @@ const CustomMap = () => {
         provider={PROVIDER_GOOGLE} // remove if not using Google Maps
         style={styles.map}
         region={{
-          latitude: 37.78825,
-          longitude: -122.4324,
+          latitude: 38.829868,
+          longitude: -75.215091,
           latitudeDelta: 0.015,
           longitudeDelta: 0.0121,
         }}>
